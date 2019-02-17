@@ -11,7 +11,7 @@ cakephpがない場合は↑のリンクからcakephpを落としてきて使え
 
 環境　CakePHP3.x phpmyadmin 4.8.5 xampp3.2.2(Apache2.4.37 PHP7.2.14 mysql5.0.12)
 
-##Overview
+Overview
 ・CakePHP3のチュートリアルを参考にしてユーザー登録とログイン認証の機能作りました。
 
 ・簡単なガチャの機能もあります。
