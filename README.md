@@ -1,4 +1,5 @@
 # CakePHPでユーザー登録、ログイン認証、グレード有りのガチャ(signup+signin+CapsuleToySystem)
+======================================================================================
 
 [![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)
 [![Total Downloads](https://img.shields.io/packagist/dt/cakephp/app.svg?style=flat-square)](https://packagist.org/packages/cakephp/app)
@@ -12,10 +13,12 @@ cakephpがない場合は↑のリンクからcakephpを落としてきて使え
 環境　CakePHP3.x phpmyadmin 4.8.5 xampp3.2.2(Apache2.4.37 PHP7.2.14 mysql5.0.12)
 
 Overview
-・CakePHP3のチュートリアルを参考にしてユーザー登録とログイン認証の機能作りました。
+--------
+* CakePHP3のチュートリアルを参考にしてユーザー登録とログイン認証の機能作りました。
 
-・簡単なガチャの機能もあります。
+* 簡単なガチャの機能も作りました。とりあえず1回しか引けません。
 
-・CakePHP完全に理解してるわけではないのでコードが汚いです。少しずつ直していきたい。
+* CakePHP完全に理解してるわけではないのでコードが汚いです。少しずつ直していきたい。
+やっつけ仕事な部分もありバグがあると思います。
 
 テーブルデータもsqlで出力しています。テーブル定義も簡単に書いています。
