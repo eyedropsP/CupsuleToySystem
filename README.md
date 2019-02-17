@@ -1,9 +1,6 @@
 CakePHPでユーザー登録、ログイン認証、グレード有りのガチャ(signup+signin+CapsuleToySystem)
 ====================================================================================
 
-[![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)
-[![Total Downloads](https://img.shields.io/packagist/dt/cakephp/app.svg?style=flat-square)](https://packagist.org/packages/cakephp/app)
-
 A skeleton for creating applications with [CakePHP](https://cakephp.org) 3.x.
 
 The framework source code can be found here: [cakephp/cakephp](https://github.com/cakephp/cakephp).
@@ -20,5 +17,6 @@ Overview
 
 * CakePHP完全に理解してるわけではないのでコードが汚いです。少しずつ直していきたい。
 やっつけ仕事な部分もありバグがあると思います。
+見た目とかはデフォルトのままです。
 
 テーブルデータもsqlで出力しています。テーブル定義も簡単に書いています。
